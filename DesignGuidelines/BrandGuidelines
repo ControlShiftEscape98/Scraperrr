@@ -1,0 +1,16 @@
+# Brand Guidelines
+
+## Colors
+- **Primary**: `#DEEBC8` (Light Green/Beige) - Used for Text/Headings on Dark BG.
+- **Accent**: `#6C757D` (Grey) - Used for Secondary text, Borders, Links.
+- **Background**: `#151515` (Dark Grey/Black) - Main App Background.
+- **Text Primary**: `#151515` (Black) - *Note: Likely for light backgrounds. Using Primary #DEEBC8 for dark mode text.*
+- **Link**: `#6C757D`
+
+## Typography
+- **Primary Font**: *Prop Master default* (Mapping to **Inter** for web safe/Google Fonts)
+- **Heading Font**: *Prop Master default* (Mapping to **Outfit** for premium feel)
+- **Sizes**:
+    - H1: 20.16px (Small Header?) -> *Will use for Card Titles*
+    - H2: 91.2px (Hero Title)
+    - Body: 19.2px
