@@ -1,0 +1,11 @@
+{
+    "buildCommand": "cd web && npm install && npm run build",
+    "devCommand": "cd web && npm run dev",
+    "installCommand": "cd web && npm install",
+    "outputDirectory": "web/dist",
+    "framework": null,
+    "env": {
+        "VITE_SUPABASE_URL": "@supabase_url",
+        "VITE_SUPABASE_ANON_KEY": "@supabase_anon_key"
+    }
+}
